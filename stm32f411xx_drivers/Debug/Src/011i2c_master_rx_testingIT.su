@@ -1,0 +1,8 @@
+011i2c_master_rx_testingIT.c:23:6:delay	16	static
+011i2c_master_rx_testingIT.c:36:6:I2C1_GPIOInits	24	static
+011i2c_master_rx_testingIT.c:59:6:I2C1_Inits	8	static
+011i2c_master_rx_testingIT.c:71:6:GPIO_ButtonInit	32	static
+011i2c_master_rx_testingIT.c:100:5:main	48	static
+011i2c_master_rx_testingIT.c:156:6:I2C1_EV_IRQHandler	8	static
+011i2c_master_rx_testingIT.c:160:6:I2C1_ER_IRQHandler	8	static
+011i2c_master_rx_testingIT.c:167:6:I2C_ApplicationEventCallback	16	static
